@@ -1,1 +1,7 @@
 1.ssh-keygen -t rsa
+
+
+
+git remote add origin git@github.com:zhiqiangwu5/project_1.git
+git branch -M main
+git push -u origin main
